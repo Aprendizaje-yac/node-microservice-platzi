@@ -1,0 +1,19 @@
+{
+  "name": "node-microservice-platzi",
+  "version": "1.0.0",
+  "description": "proyecto con platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Aprendizaje-yac/node-microservice-platzi.git"
+  },
+  "author": "Jose Luis Yacelly Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aprendizaje-yac/node-microservice-platzi/issues"
+  },
+  "homepage": "https://github.com/Aprendizaje-yac/node-microservice-platzi#readme"
+}
